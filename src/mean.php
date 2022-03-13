@@ -12,6 +12,12 @@ $Title = "INFS";
     <title><?php echo $Title?> - Calculate Mean</title>
 </head>
 <body>
-    
+    <table>
+        <tr>
+            <td colspan=3>Calculate University Mean</td>
+            <td>Total Hours</td>
+            <td>fe</td>
+        </tr>
+    </table>
 </body>
 </html>
